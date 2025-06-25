@@ -20,4 +20,15 @@
   - "2025-07-11 12:00"
   date: Oct 27 - April 31, 2025
   place: Dublin, Ireland
+  tags: [WO]
+
+- name: SSAC
+  description: 20th Annual MIT Sloan Sports Analytics Conference
+  year: 2026
+  link: http://mmsports.multimedia-computing.de/mmsports2025/index.html
+  deadline: 
+  - "2025-10-01 12:00"
+  date: March, 2026
+  place: Boston, USA
   tags: [CO]
+  
