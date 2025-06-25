@@ -1,7 +1,7 @@
-# Software engineering deadlines countdown
+# Sports data deadlines countdown
 
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
-and [sec-deadlines](https://sec-deadlines.github.io)
+and [se-deadlines](https://se-deadlines.github.io)
 
 ## Adding/updating a conference
 
@@ -14,17 +14,15 @@ and [sec-deadlines](https://sec-deadlines.github.io)
 Example record:
 
 ```
-- name: ICSE
-  description: International Conference on Software Engineering - Research Track
+- name: ACM MMSports
+  description: 8th International ACM Workshop on Multimedia Content Analysis in Sports
   year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  link: http://mmsports.multimedia-computing.de/mmsports2025/index.html
   deadline: 
-  - "2024-03-15 23:59"
-  - "2024-06-26 23:59"
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
-  note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
-  tags: [CO, RPT]
+  - "2025-07-11 12:00"
+  date: Oct 27 - April 31, 2025
+  place: Dublin, Ireland
+  tags: [WO]
 ```
 
 Descriptions of the fields:
