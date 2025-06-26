@@ -32,3 +32,23 @@
   place: Boston, USA
   tags: [CO]
   
+- name: CMSAC
+  description: 2025 Carnegie Mellon Sports Analytics Conference
+  year: 2025
+  link: https://www.stat.cmu.edu/cmsac/conference/2024/
+  deadline: 
+  - "2025-10-06 12:00"
+  date: November, 2026
+  place: Pittsburgh, USA
+  tags: [CO]
+
+- name: CVSports
+  description: 11th International Workshop on Computer Vision in Sports (CVsports) at CVPR 2025
+  year: 2025
+  link: https://cvpr.thecvf.com/virtual/2025/workshop/32275
+  deadline: 
+  - "2025-03-11 23:59"
+  date: June 12, 2025
+  place: Pittsburgh, USA
+  tags: [CO]
+  

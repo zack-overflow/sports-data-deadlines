@@ -3,6 +3,8 @@
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 and [se-deadlines](https://se-deadlines.github.io)
 
+[ccf-deadlines](https://ccfddl.com/) also has a really nice version
+
 ## Adding/updating a conference
 
 <!-- * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that. -->
