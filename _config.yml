@@ -6,6 +6,6 @@ domain: "https://zack-overflow.github.io/sports-data-deadlines/"
 baseurl: "https://zack-overflow.github.io/sports-data-deadlines"
 
 github_username: zack-overflow
-github_repo: sports-data-deadlines/
+github_repo: sports-data-deadlines
 
 markdown: kramdown
